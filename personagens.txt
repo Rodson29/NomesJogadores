@@ -2,3 +2,5 @@
 -Pipen;
 -Rodman;
 -Le Brown James;
+-Carmelo Anthony;
+-Manu Ginobilli;
